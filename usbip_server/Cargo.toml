@@ -1,0 +1,4 @@
+[package]
+name = "usbip_server"
+version = "0.1.0"
+authors = ["Aaron Perez <aap7640@gmail.com>"]

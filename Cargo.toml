@@ -1,0 +1,11 @@
+[workspace]
+members = [
+  "usbip",
+  "usbip_server"
+]
+resolver = "2"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[workspace.dependencies]
+usbip-core = { path = "../usbip-core" }
